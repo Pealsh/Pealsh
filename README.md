@@ -17,7 +17,9 @@
 </p>
 
 # 🔥 Coding Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pealsh&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pealsh&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 # 📈 Activity:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pealsh&theme=react-dark)
