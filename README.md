@@ -12,8 +12,11 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pealsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# 🔥 Coding Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pealsh&theme=dark&hide_border=false)
+# 💻 Language:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pealsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📈 Activity:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pealsh&theme=react-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pealsh&layout=donut&theme=dark)
 
