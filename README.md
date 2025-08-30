@@ -11,7 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/REACT-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/CLAUDE-FF6B35?style=for-the-badge&logoColor=white) ![Discord](https://img.shields.io/badge/DISCORD-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Steam](https://img.shields.io/badge/STEAM-000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/RIOT_GAMES-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pealsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pealsh&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pealsh&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 # 🔥 Coding Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pealsh&theme=dark&hide_border=false)
 # 💻 Language:
