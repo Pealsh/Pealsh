@@ -77,4 +77,71 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 64.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌆 Daytime                58 commits          ███████████░░░░░░░░░░░░░░   44.96 % 
+🌃 Evening                42 commits          ████████░░░░░░░░░░░░░░░░░   32.56 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Tuesday                  22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Thursday                 36 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/04/2026 09:40:40 UTC
 <!--END_SECTION:waka-->
