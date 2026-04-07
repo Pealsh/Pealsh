@@ -57,6 +57,7 @@
 
 | | |
 |---|---|
+| **共同制作イベント Top 5 選出** | 16チームの中から5チームに選ばれる（KADOKAWAドワンゴ情報工科学院） |
 | **Claude AI Academy 資格取得** | Anthropic — AI活用スキル認定 |
 
 ---
@@ -64,10 +65,10 @@
 ## Socials
 
 <p align="left">
-  <a href="https://www.instagram.com/te1ooooooooo/" target="_blank">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="pengutobitai@gmail.com">
+  <a href="mailto:YOUR_GMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
