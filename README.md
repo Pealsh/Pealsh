@@ -1,28 +1,65 @@
-
-## 🤝 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/te1ooooooooo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pengutobitai+1@gmail.com)
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/REACT-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Claude](https://img.shields.io/badge/CLAUDE-FF6B35?style=for-the-badge&logoColor=white) ![Discord](https://img.shields.io/badge/DISCORD-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Steam](https://img.shields.io/badge/STEAM-000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/RIOT_GAMES-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white) ![GitHub](https://img.shields.io/badge/GITHUB-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pealsh&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pealsh&layout=donut&theme=dark" alt="Top Languages" />
+<p align="center" style="position: relative;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:E95B3C,29:E95B3C,48:F37745,66:FFA741,100:FFD204&animation=twinkling&text=Hi,%20I'm%20Kamon&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=E0F2FE&desc=Age:%2017%20%7C%20Favorite%20things:%20All%20kinds%20of%20sweets&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm Kamon banner" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pealsh.Pealsh&left_color=#BF40BF&right_color=FFA741&left_text=Profile%20Views&right_text=" alt="Profile Views" style="position: absolute; top: 10px; right: 10px; z-index: 10;" />
 </p>
 
-# 🔥 Coding Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pealsh&theme=dark&hide_border=false" alt="GitHub Streak" />
+## Career
+
+### 日本語
+
+- **14歳** Unityに触れながら、初めてのプログラミング言語 **C#** を学び始める。
+- **15歳** コーディングををより深く理解したく、**C** と **Python** を同時に学び始め競技プログラミングで遊ぶ。
+- **16歳** **C** の基礎のほとんどを習得し、Python で **Django** を触れ、**HTML/CSS** 学び始ながら初めてのWebアプリケーションを作成。
+- **17歳** **アプリ開発** に興味が湧き、Webアプリを開発すると同時に **Dart** と **Flutter** でモバイルアプリの分野を学んでいます。
+
+### English
+
+- At **14**, I started learning my first programming language — **C#** while exploring Unity.
+- At **15**, I wanted to understand coding more deeply, so I began studying **C** and **Python** at the same time and started playing with competitive programming.
+- At **16**, I mastered most of the basics of **C**, explored **Django** with Python, and created my first web application while starting to learn **HTML/CSS**.
+- At **17**, I got interested in **app development** and am learning mobile app development with **Dart** and **Flutter** while also developing web apps.
+
+## Skills
+
+### Mastery / 最強
+<p align="left">
+  <img src="./assets/icons/flutter.svg" width="52" height="52" style="border-radius:10px;" alt="Flutter"/>
+  <img src="./assets/icons/dart.svg" width="52" height="52" style="border-radius:10px;" alt="Dart"/>
+  <img src="./assets/icons/c.svg" width="52" height="52" style="border-radius:10px;" alt="C"/>
 </p>
 
-# 📈 Activity:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pealsh&theme=react-dark)
+### Currently Learning / 学習中
+<p align="left">
+  <img src="./assets/icons/react.svg" width="48" height="48" style="border-radius:8px;" alt="React"/>
+  <img src="./assets/icons/typescript.svg" width="48" height="48" style="border-radius:8px;" alt="TypeScript"/>
+  <img src="./assets/icons/java.svg" width="48" height="48" style="border-radius:8px;" alt="Java"/>
+  <img src="./assets/icons/swift.svg" width="48" height="48" style="border-radius:8px;" alt="Swift"/>
+  <img src="./assets/icons/kotlin.svg" width="48" height="48" style="border-radius:8px;" alt="Kotlin"/>
+</p>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### On Hold / 今は使っていない
+<p align="left">
+  <img src="./assets/icons/html5.svg" width="48" height="48" style="border-radius:8px;" alt="HTML"/>
+  <img src="./assets/icons/css3.svg" width="48" height="48" style="border-radius:8px;" alt="CSS"/>
+  <img src="./assets/icons/python.svg" width="48" height="48" style="border-radius:8px;" alt="Python"/>
+  <img src="./assets/icons/django.svg" width="48" height="48" style="border-radius:8px;" alt="Django"/>
+  <img src="./assets/icons/csharp.svg" width="48" height="48" style="border-radius:8px;" alt="C#"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pealsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamon-Tahara-504&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamon-Tahara-504&theme=gruvbox&utcOffset=9)
+
+---
+
+## Last Updated
+<!-- AUTO_UPDATE_DATE -->
+**2026-04-07 01:55:47 UTC**
+<!-- END_AUTO_UPDATE_DATE -->
+
