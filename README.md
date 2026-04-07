@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:26215C,30:534AB7,60:7F77DD,100:AFA9EC&animation=twinkling&text=Hi,%20I'm%20MAOTO&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=EEEDFE&desc=Age:%2017%20%7C%20Favorite%20things:%20All%20kinds%20of%20sweets%20&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm MAOTO banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:26215C,30:534AB7,60:7F77DD,100:AFA9EC&animation=twinkling&text=Hi,%20I'm%20MAOTO&fontAlign=22&fontAlignY=32&fontSize=48&fontColor=EEEDFE&desc=Age:%2017%20%7C%20Favorite%20things:%20All%20kinds%20of%20sweets&descAlign=32&descAlignY=60&descSize=21" alt="Hi, I'm MAOTO banner" />
 </p>
 
 <p align="center">
@@ -88,23 +88,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-name: Waka Readme
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
 
 ---
 
