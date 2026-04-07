@@ -14,13 +14,13 @@
 
 - **14歳** 初めてのプログラミングに挑戦。**Discord Bot** の作成をきっかけに、**HTML / CSS / JavaScript** を学びWebサイトを制作。
 - **16歳** **KADOKAWAドワンゴ情報工科学院**（IT・プログラミング専門校）に入学。実践的な環境で本格的にスキルを磨き始める。
-- **17歳** 多数の共同制作。同年、**Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
+- **17歳** 学内共同制作イベントにて **16チーム中5チームに選出**。同年、**Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
 
 ### English
 
 - At **14**, I took my first step into programming — building a **Discord Bot**, then creating websites with **HTML / CSS / JavaScript**.
 - At **16**, I enrolled in **KADOKAWAドワンゴ情報工科学院** (IT & Programming School), diving deep into practical engineering education.
-- At **17**, I participated in numerous collaborative projects. In the same year, I earned a certification from Claude AI Academy. I am currently learning a wide range of skills from front-end to back-end development, with a focus on AI coding and web development.
+- At **17**, I was **selected among Top 5 out of 16 teams** in a collaborative production event. I also earned the **Claude AI Academy certification**. Currently focused on AI-assisted coding, full-stack web development, and broadening my skills across the stack.
 
 ---
 
@@ -47,11 +47,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
@@ -81,10 +79,3 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## Last Updated
-<!-- AUTO_UPDATE_DATE -->
-**2026-04-07 UTC**
-<!-- END_AUTO_UPDATE_DATE -->
