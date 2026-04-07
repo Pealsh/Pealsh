@@ -89,29 +89,22 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> **WakaTime の設定方法**
-> 1. [wakatime.com](https://wakatime.com) でアカウント作成 & VSCode 等にプラグイン導入
-> 2. API キーを GitHub の `Settings > Secrets` に `WAKATIME_API_KEY` として保存
-> 3. `.github/workflows/waka-readme.yml` を以下の内容で作成：
->
-> ```yaml
-> name: Waka Readme
-> on:
->   schedule:
->     - cron: '0 0 * * *'
->   workflow_dispatch:
-> jobs:
->   update-readme:
->     name: Update Readme with Metrics
->     runs-on: ubuntu-latest
->     steps:
->       - uses: anmol098/waka-readme-stats@master
->         with:
->           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
->           GH_TOKEN: ${{ secrets.GH_TOKEN }}
->           SHOW_OS: "False"
->           SHOW_PROJECTS: "False"
-> ```
+name: Waka Readme
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
 
 ---
 
