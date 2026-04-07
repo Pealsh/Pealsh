@@ -64,10 +64,10 @@
 ## Socials
 
 <p align="left">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/te1ooooooooo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:YOUR_GMAIL@gmail.com">
+  <a href="pengutobitai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
