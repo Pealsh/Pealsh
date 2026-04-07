@@ -14,47 +14,40 @@
 
 - **14歳** 初めてのプログラミングに挑戦。**Discord Bot** の作成をきっかけに、**HTML / CSS / JavaScript** を学びWebサイトを制作。
 - **16歳** **KADOKAWAドワンゴ情報工科学院**（IT・プログラミング専門校）に入学。実践的な環境で本格的にスキルを磨き始める。
-- **17歳** 学内共同制作イベントにて **16チーム中5チームに選出**。同年、**Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
+- **17歳** 多数の共同制作。同年、**Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
 
 ### English
 
 - At **14**, I took my first step into programming — building a **Discord Bot**, then creating websites with **HTML / CSS / JavaScript**.
 - At **16**, I enrolled in **KADOKAWAドワンゴ情報工科学院** (IT & Programming School), diving deep into practical engineering education.
-- At **17**, I was **selected among Top 5 out of 16 teams** in a collaborative production event. I also earned the **Claude AI Academy certification**. Currently focused on AI-assisted coding, full-stack web development, and broadening my skills across the stack.
+- At **17**, I participated in numerous collaborative projects. In the same year, I earned a certification from Claude AI Academy. I am currently learning a wide range of skills from front-end to back-end development, with a focus on AI coding and web development.
 
 ---
 
 ## Tech Stack
 
-### Main
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### AI & Tools
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Also Can Do
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Learning / Sub Skills
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### On Hold
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -87,73 +80,6 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 64.4 kB Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                23 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌆 Daytime                58 commits          ████████████░░░░░░░░░░░░░   47.54 % 
-🌃 Evening                35 commits          ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Wednesday                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 36 commits          ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Saturday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
-
-
- Last Updated on 07/04/2026 09:14:22 UTC
 <!--END_SECTION:waka-->
 
 ---
