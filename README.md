@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MAOTO.MAOTO&left_color=534AB7&right_color=7F77DD&left_text=Profile%20Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pealsh.Pealsh&left_color=534AB7&right_color=7F77DD&left_text=Profile%20Views" alt="Profile Views" />
 </p>
 
 ---
@@ -14,13 +14,13 @@
 
 - **14歳** 初めてのプログラミングに挑戦。**Discord Bot** の作成をきっかけに、**HTML / CSS / JavaScript** を学びWebサイトを制作。
 - **16歳** **KADOKAWAドワンゴ情報工科学院**（IT・プログラミング専門校）に入学。実践的な環境で本格的にスキルを磨き始める。
-- **17歳** 学内共同制作イベントにて **16チーム中5チームに選出**。同年、**Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
+- **17歳** **Claude AI Academy の資格**を取得。AI コーディング・Web開発を中心に、フロントエンドからバックエンドまで幅広く学んでいます。
 
 ### English
 
 - At **14**, I took my first step into programming — building a **Discord Bot**, then creating websites with **HTML / CSS / JavaScript**.
 - At **16**, I enrolled in **KADOKAWAドワンゴ情報工科学院** (IT & Programming School), diving deep into practical engineering education.
-- At **17**, I was **selected among Top 5 out of 16 teams** in a collaborative production event. I also earned the **Claude AI Academy certification**. Currently focused on AI-assisted coding, full-stack web development, and broadening my skills across the stack.
+- At **17**, I earned the **Claude AI Academy certification**. Currently focused on AI-assisted coding, full-stack web development, and broadening my skills across the stack.
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## Certifications & Achievements
+## Certifications
 
 | | |
 |---|---|
