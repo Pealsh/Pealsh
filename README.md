@@ -77,13 +77,11 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 64.4 kB Used in GitHub's Storage 
+> 📦 64.5 kB Used in GitHub's Storage 
  > 
 > 🏆 48 Contributions in the Year 2026
  > 
@@ -120,10 +118,12 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    7 mins              █████████████░░░░░░░░░░░░   52.58 % 
+TypeScript               4 mins              █████████░░░░░░░░░░░░░░░░   34.65 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,5 +143,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2026 09:40:40 UTC
+ Last Updated on 08/04/2026 02:08:45 UTC
 <!--END_SECTION:waka-->
