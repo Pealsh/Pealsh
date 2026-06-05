@@ -77,9 +77,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -120,14 +120,14 @@ Sunday                   94 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Swift                    2 hrs 26 mins       █████████████████░░░░░░░░   69.98 % 
-Dart                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-CocoaPods                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Swift                    4 hrs 23 mins       ███████████████████░░░░░░   75.88 % 
+Dart                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Markdown                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+CocoaPods                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,5 +147,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 03:43:00 UTC
+ Last Updated on 05/06/2026 03:30:47 UTC
 <!--END_SECTION:waka-->
