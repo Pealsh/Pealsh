@@ -120,10 +120,11 @@ Sunday                   150 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Swift                    32 mins             ████████████████████████░   95.07 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,5 +144,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 03:39:52 UTC
+ Last Updated on 13/06/2026 03:27:35 UTC
 <!--END_SECTION:waka-->
