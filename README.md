@@ -77,9 +77,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -120,14 +120,14 @@ Sunday                   150 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 8 mins        ████████████████░░░░░░░░░   62.16 % 
-Swift                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-CSS                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.68 % 
+Swift                    2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 2 mins        █████████████████████████   100.00 % 
+Cursor                   7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,5 +147,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2026 03:38:43 UTC
+ Last Updated on 19/06/2026 04:01:38 UTC
 <!--END_SECTION:waka-->
