@@ -120,10 +120,12 @@ Sunday                   206 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 mins              ████████████████░░░░░░░░░   64.61 % 
+Markdown                 1 min               ████████░░░░░░░░░░░░░░░░░   30.89 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,5 +145,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 02:30:16 UTC
+ Last Updated on 14/07/2026 02:10:05 UTC
 <!--END_SECTION:waka-->
