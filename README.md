@@ -81,9 +81,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 74.3 kB Used in GitHub's Storage 
+> 📦 74.4 kB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2026
+> 🏆 212 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,21 +94,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   35.21 % 
-🌃 Evening                590 commits         █████████████░░░░░░░░░░░░   51.04 % 
-🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+🌞 Morning                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌃 Evening                590 commits         █████████████░░░░░░░░░░░░   50.99 % 
+🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Friday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 Saturday                 20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Sunday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Sunday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 ```
 
 
@@ -118,14 +118,14 @@ Sunday                   209 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.50 % 
-Markdown                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-JSON                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
+JavaScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 11 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,5 +145,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:26:02 UTC
+ Last Updated on 25/07/2026 02:24:23 UTC
 <!--END_SECTION:waka-->
