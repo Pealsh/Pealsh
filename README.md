@@ -77,13 +77,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 74.4 kB Used in GitHub's Storage 
+> 📦 75.8 kB Used in GitHub's Storage 
  > 
-> 🏆 212 Contributions in the Year 2026
+> 🏆 213 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,20 +97,20 @@
 
 ```text
 🌞 Morning                36 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   35.18 % 
-🌃 Evening                590 commits         █████████████░░░░░░░░░░░░   50.99 % 
-🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+🌆 Daytime                407 commits         █████████░░░░░░░░░░░░░░░░   35.15 % 
+🌃 Evening                591 commits         █████████████░░░░░░░░░░░░   51.04 % 
+🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Sunday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Tuesday                  193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   29.10 % 
+Thursday                 105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Saturday                 21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Sunday                   209 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 ```
 
 
@@ -118,14 +120,14 @@ Sunday                   209 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.12 % 
-JavaScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-JSON                     1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+JavaScript               1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+JSON                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+Markdown                 1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 5 mins        █████████████████████████   100.00 % 
+Cursor                   4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,5 +147,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:24:23 UTC
+ Last Updated on 26/07/2026 02:30:37 UTC
 <!--END_SECTION:waka-->
