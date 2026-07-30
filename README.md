@@ -77,6 +77,10 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -118,36 +122,36 @@ Sunday                   209 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 24 mins        ██████████░░░░░░░░░░░░░░░   41.36 % 
-JSON                     1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
-Markdown                 21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JavaScript               1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
+JSON                     1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 25 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (99.11%)
+⏱ AI Coding Time: 3 hrs 56 mins (99.23%)
 
-✍️ 10,506 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 10,560 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 35 AI Prompts
+🧠 6 AI Sessions, 39 AI Prompts
 
 Sonnet                   3,796 lines         ███████████████████████░░   92.99 % 
 Opus                     286 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 312 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
@@ -168,5 +172,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 02:23:02 UTC
+ Last Updated on 30/07/2026 02:04:52 UTC
 <!--END_SECTION:waka-->
