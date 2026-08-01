@@ -77,9 +77,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -122,37 +122,35 @@ Sunday                   209 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.17 % 
-Swift                    1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   31.31 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Text                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Swift                    1 hr 1 min          ██████████████░░░░░░░░░░░   54.08 % 
+TypeScript               32 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Text                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 14 mins       █████████████████████████   99.28 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Cursor                   1 hr 52 mins        █████████████████████████   98.76 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (97.0%)
+⏱ AI Coding Time: 1 hr 47 mins (94.82%)
 
-✍️ 10,337 lines written by AI, 15 lines written by hand (99.86% AI-written)
+✍️ 1,858 lines written by AI, 15 lines written by hand (99.2% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 42 AI Prompts
-
-Sonnet                   1,188 lines         █████████████████████████   100.00 % 
+🧠 6 AI Sessions, 28 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📝 Concise Prompter — average 331 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.15% of changed lines were hand-edited
+🤖 AI-Driven — 99.2% of written lines came from AI
+📝 Concise Prompter — average 246 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,5 +170,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:32:20 UTC
+ Last Updated on 01/08/2026 02:31:34 UTC
 <!--END_SECTION:waka-->
