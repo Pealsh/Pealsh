@@ -77,6 +77,10 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2031%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -147,5 +151,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:30:40 UTC
+ Last Updated on 08/08/2026 01:19:24 UTC
 <!--END_SECTION:waka-->
