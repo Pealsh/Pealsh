@@ -77,9 +77,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -98,21 +98,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-🌆 Daytime                415 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌃 Evening                595 commits         █████████████░░░░░░░░░░░░   50.38 % 
-🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+🌞 Morning                48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+🌆 Daytime                416 commits         █████████░░░░░░░░░░░░░░░░   35.16 % 
+🌃 Evening                595 commits         █████████████░░░░░░░░░░░░   50.30 % 
+🌙 Night                  124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Friday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Monday                   158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Tuesday                  197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Wednesday                337 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Friday                   137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Saturday                 21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Sunday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Sunday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 
 
@@ -152,14 +152,14 @@ Composer                 0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -169,5 +169,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 02:49:01 UTC
+ Last Updated on 05/09/2026 02:50:36 UTC
 <!--END_SECTION:waka-->
