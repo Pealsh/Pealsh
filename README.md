@@ -77,9 +77,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -122,50 +122,50 @@ Sunday                   209 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ███████████░░░░░░░░░░░░░░   45.21 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Swift                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+TypeScript               1 hr 21 mins        █████████████░░░░░░░░░░░░   51.60 % 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 22 mins       ██████████████████████░░░   89.17 % 
-Cursor                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Claude Code              2 hrs 23 mins       ███████████████████████░░   90.69 % 
+Cursor                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 38 mins (100.0%)
 
-✍️ 7,506 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,789 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,322,793 Input Tokens, 947 Output Tokens
+🔤 992,949 Input Tokens, 839 Output Tokens
 
-💵 $17.50 Estimated AI Cost This Week
+💵 $13.89 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 47 AI Prompts
+🧠 9 AI Sessions, 34 AI Prompts
 
-Opus                     8,240 lines         █████████████████████████   100.00 % 
+Opus                     6,498 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,358 characters per prompt
+📚 Verbose Prompter — average 1,601 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+Swift                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
@@ -175,5 +175,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 02:53:52 UTC
+ Last Updated on 12/09/2026 03:01:19 UTC
 <!--END_SECTION:waka-->
