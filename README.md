@@ -122,39 +122,38 @@ Sunday                   234 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 44 mins       ███████████████░░░░░░░░░░   59.46 % 
-Swift                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-SQL                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TypeScript               3 hrs 4 mins        ███████████░░░░░░░░░░░░░░   44.36 % 
+Swift                    1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+SQL                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 🔥 Editors: 
-Claude Code              11 hrs              ████████████████████████░   97.14 % 
-Cursor                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              6 hrs 51 mins       █████████████████████████   98.91 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 15 mins (99.39%)
+⏱ AI Coding Time: 6 hrs 51 mins (99.0%)
 
-✍️ 4,088 lines written by AI, 171 lines written by hand (95.98% AI-written)
+✍️ 2,112 lines written by AI, 171 lines written by hand (92.51% AI-written)
 
-🔤 4,640,485 Input Tokens, 1,643 Output Tokens
+🔤 3,515,672 Input Tokens, 1,074 Output Tokens
 
-💵 $46.10 Estimated AI Cost This Week
+💵 $35.35 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 276 AI Prompts
+🧠 15 AI Sessions, 194 AI Prompts
 
-Opus                     5,017 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,454 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.98% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 3.83% of changed lines were hand-edited
+🤖 AI-Driven — 92.51% of written lines came from AI
+📝 Concise Prompter — average 435 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 7.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -174,5 +173,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 03:32:55 UTC
+ Last Updated on 28/09/2026 03:30:57 UTC
 <!--END_SECTION:waka-->
