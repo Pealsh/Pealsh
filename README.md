@@ -87,7 +87,7 @@
 
 > 📦 77.7 kB Used in GitHub's Storage 
  > 
-> 🏆 291 Contributions in the Year 2026
+> 🏆 292 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,21 +98,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-🌆 Daytime                458 commits         ████████░░░░░░░░░░░░░░░░░   30.03 % 
-🌃 Evening                817 commits         █████████████░░░░░░░░░░░░   53.57 % 
-🌙 Night                  138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+🌆 Daytime                458 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌃 Evening                817 commits         █████████████░░░░░░░░░░░░   53.54 % 
+🌙 Night                  138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Wednesday                473 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
-Thursday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Friday                   139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Saturday                 28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Sunday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Wednesday                473 commits         ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Thursday                 157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Friday                   140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Sunday                   234 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 ```
 
 
@@ -122,37 +122,33 @@ Sunday                   234 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SQL                      46 mins             ████████████████░░░░░░░░░   63.10 % 
-TypeScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Markdown                 4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 9 mins         ███████████████████████░░   93.86 % 
-Cursor                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Cursor                   4 mins              ███████████████████████░░   92.72 % 
+Agent                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (94.35%)
+⏱ AI Coding Time: 0 secs (8.03%)
 
-✍️ 1,182 lines written by AI, 171 lines written by hand (87.36% AI-written)
+✍️ 0 lines written by AI, 171 lines written by hand (0.0% AI-written)
 
-🔤 1,003,494 Input Tokens, 178 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $16.19 Estimated AI Cost This Week
+💵 $10.97 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 34 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Opus                     1,182 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.36% of written lines came from AI
-📝 Concise Prompter — average 345 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 14.47% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,5 +168,5 @@ Dart                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pealsh/Pealsh/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 04:01:45 UTC
+ Last Updated on 02/10/2026 03:57:45 UTC
 <!--END_SECTION:waka-->
